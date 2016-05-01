@@ -1,0 +1,6 @@
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\linq_test\bin\Debug\linq_test.exe.config
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\linq_test\bin\Debug\linq_test.exe
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\linq_test\bin\Debug\linq_test.pdb
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\linq_test\obj\Debug\linq_test.csprojResolveAssemblyReference.cache
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\linq_test\obj\Debug\linq_test.exe
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\linq_test\obj\Debug\linq_test.pdb
