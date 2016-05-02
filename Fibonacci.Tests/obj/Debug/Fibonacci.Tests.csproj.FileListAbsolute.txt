@@ -1,0 +1,8 @@
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\obj\Debug\Fibonacci.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\bin\Debug\Fibonacci.Tests.dll
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\bin\Debug\Fibonacci.Tests.pdb
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\bin\Debug\Fibonacci.exe
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\bin\Debug\Fibonacci.pdb
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\obj\Debug\Fibonacci.Tests.dll
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci.Tests\obj\Debug\Fibonacci.Tests.pdb

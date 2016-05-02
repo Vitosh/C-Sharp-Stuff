@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Fibonacci.FibonacciTests.TestWith10" /><Add Test="Fibonacci.FibonacciTests.TestWith1" /><Add Test="Fibonacci.FibonacciTests.TestWith0" /><Add Test="Fibonacci.FibonacciTests.TestWith20" /><Add Test="Fibonacci.FibonacciTests.TestWith2" /></Playlist>

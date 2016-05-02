@@ -1,0 +1,6 @@
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\gropc\Downloads\8. Greedy-Algorithms-Lab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\Fibonacci\obj\Debug\Fibonacci.pdb
