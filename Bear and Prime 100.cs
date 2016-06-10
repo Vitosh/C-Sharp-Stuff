@@ -1,11 +1,11 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 class CompositeAndPrime
 {
     static void Main()
     {
-        List<int> l_prime = new List<int> { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53 };
+        List<int> l_prime = new List<int> { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 };
         List<int> l_composite_sq = new List<int> { 4, 9, 25, 49 };
 
         int i_sum = 0;
