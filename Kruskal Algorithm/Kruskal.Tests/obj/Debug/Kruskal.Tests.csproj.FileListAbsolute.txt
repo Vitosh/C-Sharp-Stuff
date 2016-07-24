@@ -1,0 +1,16 @@
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+C:\Users\gropc\Desktop\SoftUni\6. Advanced-Graph-Algorithms-Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb
