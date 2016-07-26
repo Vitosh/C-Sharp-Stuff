@@ -1,0 +1,9 @@
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\bin\Debug\InfoFootballers.exe.config
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\bin\Debug\InfoFootballers.exe
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\bin\Debug\InfoFootballers.pdb
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\obj\Debug\InfoFootballers.Form1.resources
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\obj\Debug\InfoFootballers.Properties.Resources.resources
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\obj\Debug\InfoFootballers.csproj.GenerateResource.Cache
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\obj\Debug\InfoFootballers.exe
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\obj\Debug\InfoFootballers.pdb
+c:\users\gropc\documents\visual studio 2015\Projects\InfoFootballers\InfoFootballers\obj\Debug\InfoFootballers.csprojResolveAssemblyReference.cache
