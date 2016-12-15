@@ -1,0 +1,5 @@
+C:\Users\v.doynov\Documents\Visual Studio 2015\Projects\BlackConsole\Info\bin\Debug\Info.dll
+C:\Users\v.doynov\Documents\Visual Studio 2015\Projects\BlackConsole\Info\bin\Debug\Info.pdb
+C:\Users\v.doynov\Documents\Visual Studio 2015\Projects\BlackConsole\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+C:\Users\v.doynov\Documents\Visual Studio 2015\Projects\BlackConsole\Info\obj\Debug\Info.dll
+C:\Users\v.doynov\Documents\Visual Studio 2015\Projects\BlackConsole\Info\obj\Debug\Info.pdb
