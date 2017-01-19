@@ -1,11 +1,12 @@
 using System;
+using System.IO;
+using Excel = Microsoft.Office.Interop.Excel;
+
 //using System.Collections.Generic;
 //using System.Linq;
 //using System.Text;
 //using System.Threading.Tasks;
-using System.IO;
 //using System.Reflection;
-using Excel = Microsoft.Office.Interop.Excel;
 //using Word = Microsoft.Office.Interop.Word;
 
 class MainClass
@@ -21,6 +22,7 @@ class MainClass
         int intLastColumn = 50;
         int lastRow;
         int lastRowReport;
+        int intTotalRows;
 
         Excel.Workbook wkbReport = null;
         string strWkbReportPath;
@@ -48,10 +50,8 @@ class MainClass
             Excel.Workbook wkb = null;
             Excel.Worksheet sheet = null;
             Excel.Worksheet sheetReport = null;
-            Excel.Range rngLast = null;
             Excel.Range rngLastReport = null;
             Excel.Range rngToCopy = null;
-            Excel.Range rngDestination = null;
             
             wkb = Open(excel, strFile);
             if (bMakeOnce)
@@ -66,17 +66,22 @@ class MainClass
             {   
                 sheetReport = wkbReport.Worksheets[1];
                 sheet = wkb.Worksheets[1];
+
+                //lastRow = sheet.Cells[1, 3].get_End(Excel.XlDirection.xlUp).Row;
+
+                intTotalRows = sheet.Rows.Count;
+                lastRow = sheet.Cells[intTotalRows, 1].End(Excel.XlDirection.xlUp).Row;
+                lastRowReport = sheetReport.Cells[intTotalRows, 1].End(Excel.XlDirection.xlUp).Row;
+                
+                //lastRowReport = sheetReport.Cells[intTotalRows, 1].get_End(Excel.XlDirection.xlUp).Row;
+                //lastRowReport = sheetReport.Cells[intTotalRows, intTotalRows.End[Excel.XlDirection.xlUp]].Row;
                 n++;
-                rngLastReport = sheetReport.Cells.SpecialCells(Excel.XlCellType.xlCellTypeLastCell, Type.Missing);
-                rngLast = sheet.Cells.SpecialCells(Excel.XlCellType.xlCellTypeLastCell, Type.Missing);
 
-                rngToCopy = sheet.Range[sheet.Cells[intFirstLine, 1], sheet.Cells[rngLast.Row, intLastColumn]];
+                rngToCopy = sheet.Range[sheet.Cells[intFirstLine,1],sheet.Cells[lastRow, intLastColumn]];
                 int size = rngToCopy.Rows.Count;
-                Console.WriteLine(size);
-
-                rngDestination = sheetReport.Range[sheetReport.Cells[200 * n, 1], sheetReport.Cells[200 * n + size, intLastColumn]];
-
-                rngToCopy.Copy(rngDestination);
+                rngLastReport = sheetReport.Range[sheetReport.Cells[lastRowReport+1, 1], sheetReport.Cells[lastRowReport + 1+size, intLastColumn]];
+                
+                rngToCopy.Copy(rngLastReport);
                 wkb.Close(false);
             }
         }
