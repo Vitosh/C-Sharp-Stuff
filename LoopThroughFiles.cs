@@ -43,8 +43,7 @@ class MainClass
             Excel.Range rngLastReport = null;
             Excel.Range rngToCopy = null;
             Excel.Range rngDestination = null;
-
-
+            
             wkb = Open(excel, strFile);
             if (bMakeOnce)
             {
