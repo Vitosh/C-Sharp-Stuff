@@ -69,10 +69,8 @@ class MainClass
                 rngDestination = sheetReport.Range[sheetReport.Cells[200 * n, 1], sheetReport.Cells[200 * n + size, intLastColumn]];
 
                 rngToCopy.Copy(rngDestination);
-                //rngDestination.PasteSpecial(Excel.XlPasteType.xlPasteAll);
+                rngDestination.PasteSpecial(Excel.XlPasteType.xlPasteAll);
                 wkb.Close();
-
-
             }
         }
         wkbReport.Close(false);
