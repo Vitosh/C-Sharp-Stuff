@@ -1,12 +1,12 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 using System.IO;
-using System.Reflection;
+//using System.Reflection;
 using Excel = Microsoft.Office.Interop.Excel;
-using Word = Microsoft.Office.Interop.Word;
+//using Word = Microsoft.Office.Interop.Word;
 
 class MainClass
 {
@@ -28,6 +28,15 @@ class MainClass
 
         excel = new Excel.Application();
         excel.Visible = true;
+
+        foreach (string strFile in strFiles)
+        {
+            if (strFile.Contains(strReportName))
+            {
+                Console.WriteLine(strReportName + " is deleted.");
+                File.Delete(strFile);
+            }
+        }
 
         foreach (string strFile in strFiles)
         {
@@ -73,6 +82,7 @@ class MainClass
         }
         wkbReport.Close(true);
         excel.Quit();
+        Console.WriteLine("Finished!");
     }
 
     public static Excel.Workbook Open(Excel.Application excelInstance, string fileName, bool readOnly = false, bool editable = true, bool updateLinks = true)
