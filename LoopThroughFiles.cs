@@ -69,13 +69,13 @@ class MainClass
                 rngDestination = sheetReport.Range[sheetReport.Cells[200 * n, 1], sheetReport.Cells[200 * n + size, intLastColumn]];
 
                 rngToCopy.Copy(rngDestination);
-                rngDestination.PasteSpecial(Excel.XlPasteType.xlPasteAll);
-                wkb.Close();
+                wkb.Close(false);
             }
         }
-        wkbReport.Close(false);
+        wkbReport.Close(true);
         excel.Quit();
     }
+
     public static Excel.Workbook Open(Excel.Application excelInstance, string fileName, bool readOnly = false, bool editable = true, bool updateLinks = true)
     {
         Excel.Workbook book = excelInstance.Workbooks.Open(
