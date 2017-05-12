@@ -14,26 +14,45 @@ namespace ca120517
         static void Main()
         {
             SoftUniDb context = new SoftUniDb();
-            var employees = context.Employees
-                    .OrderBy(e=>e.EmployeeID);
             string strResult = "";
-
-            CultureInfo customCulture = (System.Globalization.CultureInfo)System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
-            customCulture.NumberFormat.NumberDecimalSeparator = ".";
-            Thread.CurrentThread.CurrentCulture = customCulture;
-
-            foreach (Employee e in employees)
-            {
-                strResult += $"{e.FirstName} {e.LastName} {e.MiddleName} {e.JobTitle} {e.Salary.ToString().Replace(",",".")}\r\n";
-            }
-
             var systemPath = System.Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData);
             var complete = Path.Combine(systemPath, "myFiles.txt");
-            Console.WriteLine(complete);
 
-            System.IO.StreamWriter file = new System.IO.StreamWriter(complete, true);
+            //PROBLEM 3
+            //var employees = context.Employees
+            //        .OrderBy(e=>e.EmployeeID);
+            //foreach (Employee e in employees)
+            //{
+            //    strResult += $"{e.FirstName} {e.LastName} {e.MiddleName} {e.JobTitle} {e.Salary.ToString().Replace(",",".")}\r\n";
+            //}
+
+
+            //PROBLEM 4
+            //var employeeNames = context.Employees
+            //        .Where(e => e.Salary > 50000)
+            //        .OrderBy(e => e.EmployeeID);
+
+            //foreach (Employee e in employeeNames)
+            //{
+            //    strResult += $"{e.FirstName}\r\n";
+            //}
+
+            //PROBLEM 5
+            //var employees = context.Employees.Where(e =>
+            //                        e.Department.Name == "Research and Development")
+            //    .OrderBy(e => e.Salary)
+            //    .ThenByDescending(e => e.FirstName);
+
+            //foreach (Employee e in employees)
+            //{
+            //    strResult += $"{e.FirstName} {e.LastName} " + $"from {e.Department.Name} - ${e.Salary:F2}".ToString().Replace(",",".")+"\r\n";
+            //}
+
+            //PROBLEM 6
+
+            StreamWriter file = new System.IO.StreamWriter(complete,false);
             file.WriteLine(strResult);
-
+            Console.WriteLine(complete);
             file.Close();
         }
     }
