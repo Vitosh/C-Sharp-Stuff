@@ -1,0 +1,10 @@
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\ca120517.exe.config
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\obj\Debug\ca120517.csprojResolveAssemblyReference.cache
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\ca120517.exe
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\ca120517.pdb
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\EntityFramework.dll
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\EntityFramework.xml
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\obj\Debug\ca120517.exe
+C:\Users\v.doynov\Desktop\BA Tools\SkoLust\InitialInput4\ca120517\obj\Debug\ca120517.pdb
