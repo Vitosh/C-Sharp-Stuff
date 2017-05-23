@@ -1,0 +1,10 @@
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\StoreData.exe.config
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\StoreData.exe
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\StoreData.pdb
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\EntityFramework.dll
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\EntityFramework.xml
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\obj\Debug\StoreData.csprojResolveAssemblyReference.cache
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\obj\Debug\StoreData.exe
+c:\users\gropc\documents\visual studio 2015\Projects\StoreData\StoreData\obj\Debug\StoreData.pdb
