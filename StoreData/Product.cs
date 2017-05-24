@@ -16,9 +16,6 @@ namespace StoreData
 
         public decimal Price { get; set; }
 
-        public string Description { get; set; }
-
-        //Product can take part in many sales;
-        //public List<Sale> Sales { get; set; }
+        public string Description { get; set; } = "No description";
     }
 }

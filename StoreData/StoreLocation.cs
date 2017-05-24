@@ -1,4 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace StoreData
 {
@@ -7,5 +11,6 @@ namespace StoreData
         public int Id { get; set; }
         public string LocationName { get; set; }
         public List<Sale> Sales { get; set; }
+
     }
 }
