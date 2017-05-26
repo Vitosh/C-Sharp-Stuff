@@ -1,4 +1,4 @@
-***Basic Entity Framework***
+***Entity Framework Basics***
 
 https://msdn.microsoft.com/en-us/library/jj591621(v=vs.113).aspx
 
