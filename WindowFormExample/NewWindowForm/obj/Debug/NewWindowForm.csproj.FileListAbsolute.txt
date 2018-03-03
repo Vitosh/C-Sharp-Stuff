@@ -1,0 +1,10 @@
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\bin\Debug\NewWindowForm.exe.config
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\bin\Debug\NewWindowForm.exe
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\bin\Debug\NewWindowForm.pdb
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.csprojResolveAssemblyReference.cache
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.csproj.ResolveComReference.cache
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.Form1.resources
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.Properties.Resources.resources
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.csproj.GenerateResource.Cache
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.exe
+c:\users\gropc\documents\visual studio 2015\Projects\NewWindowForm\NewWindowForm\obj\Debug\NewWindowForm.pdb
