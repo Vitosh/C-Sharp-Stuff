@@ -11,6 +11,6 @@ After some 6 months of doing VBA, PHP, Python and jQuery I think it is a good id
 - Shift + F11	    Step Out. Completes and steps out of the current method.
 - Shift + F5	    Stop. Debugging stops and returns Visual Studio to design mode.
 
-- Ctrl + K + C - Comment
-- Ctrl + K + U - UnComment
+- Ctrl + K + C    Comment
+- Ctrl + K + U    UnComment
 </pre>
