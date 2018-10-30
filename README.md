@@ -1,7 +1,7 @@
 # C-Stuff
 After some time of doing VBA, PHP, Python and jQuery I think it is a good idea to go back to the roots again. Let's see what will come up.
 
-# C# Debugging Shortcuts:
+# Visual Studio Debugging Shortcuts:
 
 <pre>
 - F5              Run
