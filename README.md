@@ -3,6 +3,7 @@ After some 6 months of doing VBA, PHP, Python and jQuery I think it is a good id
 
 # C# Debugging Shortcuts:
 
+<pre>
 - F5              Run
 - F10	            Step Over. Does not step into the current method and advances Visual Studio to the next statement.
 - F11	            Step Into. Advanced to the next statement unless it is a method call in which it drops inside for line-by-line.
@@ -12,3 +13,4 @@ After some 6 months of doing VBA, PHP, Python and jQuery I think it is a good id
 
 - Ctrl + K + C - Comment
 - Ctrl + K + U - UnComment
+</pre>
