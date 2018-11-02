@@ -13,4 +13,6 @@ After some time of doing VBA, PHP, Python and jQuery I think it is a good idea t
 
 - Ctrl + K + C    Comment
 - Ctrl + K + U    UnComment
+
+- Ctrl + E + D    AutoFormat
 </pre>
