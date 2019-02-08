@@ -1,0 +1,12 @@
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\obj\Debug\SomeDbProject.csprojAssemblyReference.cache
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\obj\Debug\SomeDbProject.csproj.CoreCompileInputs.cache
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\SomeDbProject.exe.config
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\SomeDbProject.exe
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\SomeDbProject.pdb
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\EntityFramework.dll
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\EntityFramework.xml
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\obj\Debug\SomeDbProject.csproj.CopyComplete
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\obj\Debug\SomeDbProject.exe
+C:\Users\VDOY141\source\repos\SomeDbProject\SomeDbProject\obj\Debug\SomeDbProject.pdb
