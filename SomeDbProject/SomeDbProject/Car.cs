@@ -1,18 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SomeDbProject
+﻿namespace SomeDbProject
 {
+    using System;
+    using System.Collections.Generic;
+
     class Car
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public string Model { get; set; }
         public decimal Price { get; set; }
         public string Origin { get; set; }
         public int Year { get; set; }
+        public virtual int? CompanyId {get; set;}
+        public virtual Company Company { get; set; }
 
         public string GetModel(int value)
         {
@@ -43,7 +42,7 @@ namespace SomeDbProject
 
         public override string ToString()
         {
-            return $"{ID} \t {Model} \t EUR {Price} \t {Origin} \t {Year}";
+            return $"{Id} \t {Model} \t EUR {Price} \t {Origin} \t {Year} \t";
         }
     }
 }

@@ -9,5 +9,6 @@ namespace SomeDbProject
             Database.SetInitializer(new DropCreateDatabaseAlways<SomeDbContext>());
         }
         public DbSet <Car> Cars { get; set; }
+        public DbSet<Company> Companies { get; set; }
     }
 }
