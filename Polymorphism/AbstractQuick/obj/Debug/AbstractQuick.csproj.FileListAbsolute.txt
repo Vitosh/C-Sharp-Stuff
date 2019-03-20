@@ -1,0 +1,6 @@
+C:\Users\gropc\Documents\Visual Studio 2015\Projects\Polymorphism\AbstractQuick\bin\Debug\AbstractQuick.exe.config
+C:\Users\gropc\Documents\Visual Studio 2015\Projects\Polymorphism\AbstractQuick\bin\Debug\AbstractQuick.exe
+C:\Users\gropc\Documents\Visual Studio 2015\Projects\Polymorphism\AbstractQuick\bin\Debug\AbstractQuick.pdb
+C:\Users\gropc\Documents\Visual Studio 2015\Projects\Polymorphism\AbstractQuick\obj\Debug\AbstractQuick.csprojResolveAssemblyReference.cache
+C:\Users\gropc\Documents\Visual Studio 2015\Projects\Polymorphism\AbstractQuick\obj\Debug\AbstractQuick.exe
+C:\Users\gropc\Documents\Visual Studio 2015\Projects\Polymorphism\AbstractQuick\obj\Debug\AbstractQuick.pdb
