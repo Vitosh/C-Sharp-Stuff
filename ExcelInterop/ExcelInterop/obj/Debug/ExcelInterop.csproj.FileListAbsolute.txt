@@ -1,0 +1,7 @@
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\bin\Debug\ExcelInterop.exe.config
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\bin\Debug\ExcelInterop.exe
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\bin\Debug\ExcelInterop.pdb
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\obj\Debug\ExcelInterop.csprojResolveAssemblyReference.cache
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\obj\Debug\ExcelInterop.csproj.ResolveComReference.cache
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\obj\Debug\ExcelInterop.exe
+c:\users\gropc\documents\visual studio 2017\Projects\ExcelInterop\ExcelInterop\obj\Debug\ExcelInterop.pdb
