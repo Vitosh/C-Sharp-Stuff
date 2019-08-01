@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciWithXUnit", "FibonacciWithXUnit.csproj", "{943BF4B7-ADA7-460D-8008-40684EDA9EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestFibonacci", "..\XUnitTestFibonacci\XUnitTestFibonacci.csproj", "{188B631F-DFC2-47AF-BF2F-1182FF1978E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943BF4B7-ADA7-460D-8008-40684EDA9EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943BF4B7-ADA7-460D-8008-40684EDA9EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943BF4B7-ADA7-460D-8008-40684EDA9EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943BF4B7-ADA7-460D-8008-40684EDA9EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188B631F-DFC2-47AF-BF2F-1182FF1978E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188B631F-DFC2-47AF-BF2F-1182FF1978E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188B631F-DFC2-47AF-BF2F-1182FF1978E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188B631F-DFC2-47AF-BF2F-1182FF1978E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23865C98-C172-4E99-AE8F-50FBD35ECDB1}
+	EndGlobalSection
+EndGlobal

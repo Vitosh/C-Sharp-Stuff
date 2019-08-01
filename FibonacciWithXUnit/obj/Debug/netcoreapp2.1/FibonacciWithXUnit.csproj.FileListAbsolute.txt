@@ -1,0 +1,11 @@
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\bin\Debug\netcoreapp2.1\FibonacciWithXUnit.deps.json
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\bin\Debug\netcoreapp2.1\FibonacciWithXUnit.runtimeconfig.json
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\bin\Debug\netcoreapp2.1\FibonacciWithXUnit.runtimeconfig.dev.json
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\bin\Debug\netcoreapp2.1\FibonacciWithXUnit.dll
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\obj\Debug\netcoreapp2.1\FibonacciWithXUnit.csproj.CoreCompileInputs.cache
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\obj\Debug\netcoreapp2.1\FibonacciWithXUnit.AssemblyInfoInputs.cache
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\obj\Debug\netcoreapp2.1\FibonacciWithXUnit.AssemblyInfo.cs
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\bin\Debug\netcoreapp2.1\FibonacciWithXUnit.pdb
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\obj\Debug\netcoreapp2.1\FibonacciWithXUnit.csprojAssemblyReference.cache
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\obj\Debug\netcoreapp2.1\FibonacciWithXUnit.dll
+C:\Users\gropc\Source\Repos\FibonacciWithXUnit\obj\Debug\netcoreapp2.1\FibonacciWithXUnit.pdb
